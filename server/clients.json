@@ -1,0 +1,23 @@
+{
+    "u1": {
+        "files": [
+            "aaa"
+        ],
+        "listening_ip": "localhost",
+        "listening_port": "35906"
+    },
+    "u2": {
+        "files": [
+            "aaa"
+        ],
+        "listening_ip": "localhost",
+        "listening_port": "33846"
+    },
+    "u3": {
+        "files": [
+            "aaa"
+        ],
+        "listening_ip": "localhost",
+        "listening_port": "44893"
+    }
+}
