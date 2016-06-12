@@ -1,7 +1,3 @@
-dpdgsp: a P2P file sharing application with a centralized server
-===
-
-
 description
 ===
 
